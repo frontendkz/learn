@@ -1,0 +1,12 @@
+{
+  "name": "learn_frontend_kz",
+  "version": "0.0.1",
+  "description": "Learn frontend for FrontendKZ comunity",
+  "main": "index.js",
+  "repository": "git@github.com:frontendkz/learn.git",
+  "author": "Airat Zhanshuakov <dakanca@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "1.16.4"
+  }
+}
